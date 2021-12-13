@@ -1,0 +1,138 @@
+h1 { 
+    text-align: center;
+    background-color:rgba(205, 211, 127, 0.7);
+    padding: 20px 0;
+    border-radius: 50px;
+
+}
+
+div {
+    margin-bottom: 40px;
+
+}
+p{
+    text-align: center;
+    margin: 2% 35%;
+    padding: 10px 0px;
+    font-size: 18px;
+    background-color: rgb(226, 213, 213);
+    border-radius: 50px;
+}
+p:hover{
+    color: white;
+    background-color: black;
+}
+p:nth-child(odd){
+    margin-left: 25%;
+    margin-right: 45%;
+    background-color: rgb(197, 163, 228);
+}
+p:nth-child(odd):hover{
+    background-color: rgb(85, 78, 79);
+}
+
+.alias{ 
+    cursor: alias;
+
+}
+.all-scroll { 
+    cursor: all-scroll;
+}
+
+.cell { 
+    cursor: cell;
+
+}
+
+.context-menu { 
+    cursor: context-menu;
+
+}
+
+.col-resize { 
+    cursor: col-resize;
+}
+
+.copy {
+    cursor: copy; 
+
+}
+
+.cross-menu { 
+    cursor: cross-menu;
+
+}
+
+.default { 
+    cursor: default;
+
+}
+
+.e-resize { 
+    cursor: e-resize;
+
+}
+
+.grabbing { 
+    cursor: grabbing;
+
+}
+
+.help { 
+    cursor: help;
+
+}
+.move { 
+    cursor: move;
+
+}
+.n-resize { 
+    cursor: n-resize;
+
+}
+.ne-resize { 
+    cursor: ne-resize;
+
+}
+.nesw-resize { 
+    cursor: nesw-resize;
+
+}
+.nw-resize { 
+    cursor: nw-resize;
+
+}
+.ns-resize { 
+    cursor: ns-resize;
+}
+.no-drop { 
+    cursor: no-drop;
+}
+.none { 
+    cursor: none;
+}
+.not-allowed { 
+    cursor: not-allowed;
+}
+.pointer {
+    cursor: pointer; 
+
+}
+.progress { 
+    cursor: progress;
+}
+.row-resize {
+    cursor: row-resize;
+}
+.s-resize { 
+    cursor: s-resize;
+}
+.text { 
+    cursor: text;
+}
+.url { 
+    cursor: url;
+}
+.wait { 
+    cursor: wait;
+}
